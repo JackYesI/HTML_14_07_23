@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.task1 header,
+.task1 aside,
+.task1 section,
+.task1 main,
+.task1 footer
+{
+    border: solid 2px black;
+    margin-bottom: 10px;
+}
+.task1 header{
+    height: 130px;
+}
+.task1 aside{
+    width: 140px;
+    float: left;
+    height: 300px;
+}
+.task1 section{
+    width: 140px;
+    float: right;
+    height: 300px;
+}
+.task1 main{
+    height: 450px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.task1 footer{
+    height: 70px;
+}
+h1{
+    float: left;
+}
+p{
+    margin-left: 120px;
+    text-align: justify;
+    margin-top: 10px;
+    margin-right: 10px;
+}
