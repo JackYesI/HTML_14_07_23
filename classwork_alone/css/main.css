@@ -1,0 +1,61 @@
+body{
+    margin: 10px;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.task2 header,
+.task2 aside,
+.task2 section,
+.task2 main,
+.task2 footer
+{
+    border: solid 2px black;
+    margin-bottom: 10px;
+    margin: 2px;
+}
+.task2 header{
+    height: 130px;
+}
+.task2 aside{
+    width: 140px;
+    float: left;
+    height: 300px;
+}
+.task2 main{
+    height: 450px;
+    margin-left: 150px;
+}
+.task2 footer{
+    height: 70px;
+}
+
+.task3 header,
+.task3 aside,
+.task3 section,
+.task3 main,
+.task3 footer
+{
+    border: solid 2px black;
+    margin-bottom: 10px;
+    margin: 2px;
+}
+.task3 header{
+    height: 130px;
+}
+.task3 aside{
+    width: 140px;
+    float: right;
+    height: 300px;
+}
+.task3 main{
+    height: 450px;
+    margin-right: 150px;
+    
+}
+.task3 footer{
+    height: 70px;
+}
+
